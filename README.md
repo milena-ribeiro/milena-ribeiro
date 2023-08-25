@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 
-![Milena-Ribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=milena-ribeiro&show_icons=true&theme=panda)
+![Milena-Ribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=milena-ribeiro&show_icons=true&bg_color=000&border_color=30A3DC&icon_color=19f9d899&title_color=19f9d899&text_color=FF75B5)
 
 ## Tecnologias:
 
@@ -29,3 +29,8 @@ Here are some ideas to get you started:-->
  <a href="https://www.linkedin.com/in/milena-ribeiro-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 </div>
+
+
+## Linguagens
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=milena-ribeiro&layout=compact&bg_color=000&border_color=30A3DC&title_color=19f9d899&text_color=FF75B5)
+
