@@ -31,6 +31,6 @@ Here are some ideas to get you started:-->
 </div>
 
 
-## Linguagens
+## 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=milena-ribeiro&layout=compact&bg_color=000&border_color=30A3DC&title_color=19f9d899&text_color=FF75B5)
 
