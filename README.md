@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-
-![Milena-Ribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=milena-ribeiro&show_icons=true&bg_color=000&border_color=30A3DC&icon_color=19f9d899&title_color=19f9d899&text_color=FF75B5)
+<!-- Meu nome é Milena e estou estudabdo programação. Tenho formação Tecnica em desenvolvimento de siste,as e estou e, busca da minha primeira oportunidade np mercado de trabalho. -->
 
 ## Tecnologias:
 
@@ -31,6 +30,13 @@ Here are some ideas to get you started:-->
 </div>
 
 
-## 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=milena-ribeiro&layout=compact&bg_color=000&border_color=30A3DC&title_color=19f9d899&text_color=FF75B5)
+## Desempenho:
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=milena-ribeiro&show_icons=true&bg_color=000&border_color=30A3DC&icon_color=19f9d899&title_color=19f9d899&text_color=FF75B5" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=milena-ribeiro&layout=compact&bg_color=000&border_color=30A3DC&title_color=19f9d899&text_color=FF75B5" />
+</a>
+</div>
 
