@@ -1,4 +1,4 @@
-### Milena Ribeiro 🦋
+# Milena Ribeiro 🦋
 
 <!--
 **milena-ribeiro/milena-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:-->
  
 </div>
       
-## Contato:
+## Conecte-se comigo:
 <div>
  <a href="https://t.me/milena_ribeiro" target="_blank"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=FF75B5"   target="_blank"></a>
  <a href="mailto:milena2795138@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF75B5" target="_blank"></a>
@@ -27,12 +27,12 @@ Here are some ideas to get you started:-->
 
 </div>
 
-## Desempenho:
+## Estatísticas do GitHub:
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=milena-ribeiro&show_icons=true&bg_color=000&border_color=30A3DC&icon_color=19f9d899&title_color=19f9d899&text_color=FF75B5" />
+<a href="https://github.com/milena-ribeiro/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=milena-ribeiro&show_icons=true&bg_color=000&border_color=30A3DC&icon_color=19f9d899&title_color=19f9d899&text_color=FF75B5&hide_title=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/milena-ribeiro/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=milena-ribeiro&layout=compact&bg_color=000&border_color=30A3DC&title_color=19f9d899&text_color=FF75B5" />
 </a>
 </div>
