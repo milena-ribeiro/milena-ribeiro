@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 <div>
- Olá, sou a Milena, uma entusiasta da programação em busca de oportunidades no mundo do desenvolvimento. Com formação técnica em Desenvolvimento de Sistemas e uma paixão por resolver problemas por meio de códigos, estou ansiosa para contribuir e aprender no ambiente profissional. Atualmente, estou explorando projetos, expandindo meus conhecimentos e pronta para dar o próximo passo na minha jornada como desenvolvedora. Convido você a conhecer meus projetos e a compartilhar conhecimento! 🚀
+ Olá, sou a Milena, uma entusiasta da programação em busca de oportunidades no mundo do desenvolvimento. <!--Com formação técnica em Desenvolvimento de Sistemas e uma paixão por resolver problemas por meio de códigos, estou ansiosa para contribuir e aprender no ambiente profissional. Atualmente, estou explorando projetos, expandindo meus conhecimentos e pronta para dar o próximo passo na minha jornada como desenvolvedora. Convido você a conhecer meus projetos e a compartilhar conhecimento! -->🚀
 </div>
 
 ## Tecnologias:
